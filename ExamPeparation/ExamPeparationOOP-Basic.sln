@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avatar", "Avatar\Avatar.csproj", "{709F7538-F10A-4940-80B2-F5F37CE44A9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PawInc", "PawInc\PawInc.csproj", "{B90B1D3A-A1BF-4F8F-89E0-BE0081D3E605}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemSplit", "SystemSplit\SystemSplit.csproj", "{8F2574AC-29BC-487A-9905-E4CF0BA12F45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{709F7538-F10A-4940-80B2-F5F37CE44A9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{709F7538-F10A-4940-80B2-F5F37CE44A9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{709F7538-F10A-4940-80B2-F5F37CE44A9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{709F7538-F10A-4940-80B2-F5F37CE44A9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B90B1D3A-A1BF-4F8F-89E0-BE0081D3E605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B90B1D3A-A1BF-4F8F-89E0-BE0081D3E605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B90B1D3A-A1BF-4F8F-89E0-BE0081D3E605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B90B1D3A-A1BF-4F8F-89E0-BE0081D3E605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F2574AC-29BC-487A-9905-E4CF0BA12F45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F2574AC-29BC-487A-9905-E4CF0BA12F45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F2574AC-29BC-487A-9905-E4CF0BA12F45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F2574AC-29BC-487A-9905-E4CF0BA12F45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
